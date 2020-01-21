@@ -3,6 +3,7 @@ exports.__esModule = true;
 var ProductService = /** @class */ (function () {
     function ProductService() {
     }
+
     ProductService.prototype.getProducts = function (category) {
         // magic
         return category;

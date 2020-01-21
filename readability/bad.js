@@ -1,11 +1,11 @@
 export default class CartService {
-    cart={};
+    cart = {};
 
-    purchase(product){
-      // magic
+    purchase(product) {
+        // magic
     }
 
-    increaseAmount(sku){
-       // magic
+    increaseAmount(sku) {
+        // magic
     }
 }

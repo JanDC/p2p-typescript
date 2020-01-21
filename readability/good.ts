@@ -1,7 +1,7 @@
 import {Cart, Category, Product, ProductSku} from "../types";
 
 export default class CartService {
-    private cart;
+    private cart: Cart;
 
     public getProducts(category: Category): Category {
         // magic
